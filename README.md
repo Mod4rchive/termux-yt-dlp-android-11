@@ -1,6 +1,6 @@
 # termux-yt-dlp
 
-Bash script to setup yt-dlp in Termux
+Bash script to setup yt-dlp in Termux (working for android 11 storage update)
 
 ## How to install
 
