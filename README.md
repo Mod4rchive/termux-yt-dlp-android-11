@@ -18,8 +18,8 @@ $ bash install.sh
 
 3. Enable Termux [popup over other applications](https://bubble.dynalogix.eu/enable-display-pop-up-windows-on-new-xiaomi-phones/):
 
-- `Long press Termux icon > i > Other permissions > Display pop-up window`
-- or `Settings > Apps > Manage Apps > Termux > Other permissions > Display pop-up window`.
+- `Long press Termux icon > i > Other permissions > Display over other apps`
+- or `Settings > Apps > Manage Apps > Termux > Other permissions > Display over other apps`.
 
 ## Upgrade yt-dlp
 
@@ -30,7 +30,7 @@ Open Termux and run
 ## How to use
 
 1. Now go into youtube (or twitter, or reddit, [full list](https://ytdl-org.github.io/youtube-dl/supportedsites.html)), watch a video, tap the share button, then tap termux and wait for the download.
-2. Go into `~/storage/shared/Download/` with your file explorer and watch your downloaded video.
+2. Go into `~/storage/Download/` with your file explorer and watch your downloaded video.
 
 ## TODO
 
